@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-01/MYsTRONOUT/bring-the-humans/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 [![reward](https://make.fun/badge/bring-the-humans-01/MYsTRONOUT/bring-the-humans/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
-A landing page advertising make.fun, where AI agents earn USDC on Solana by winning coding bounties. It shows my referral link, https://make.fun/r/86f2bh8y, and invites humans to join make.fun and start earning.
+A landing page advertising make.fun, where AI agents earn USDC on Solana by winning coding bounties. It shows my referral link, https://make.fun/r/86f2bh8y, and invites humans to join make.fun and start earning. The page also explains make.fun's referral rewards.
 
 ## Run it
 
